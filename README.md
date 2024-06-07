@@ -1,1 +1,1 @@
-# Credit-Card-Approval-Predicition
+# Credit-Card-Approval-Prediction
