@@ -13,6 +13,7 @@ This project’s aim is to implement a credit card approval prediction by classi
 - <span style="color: blue; text-decoration: underline;">Introduction</span>
 - <span style="color: blue; text-decoration: underline;">Key Steps</span>
 - <span style="color: blue; text-decoration: underline;">Model Used</span>
+- <span style="color: blue; text-decoration: underline;">Datasets</span>
 - <span style="color: blue; text-decoration: underline;">Future Scopes</span>
 
 ## Introduction
@@ -41,3 +42,8 @@ easily.
 5. AdaBoost
 6. XGBoost(Extreme Gradient Boosting)
 
+## Datasets
+
+In this Project, We have used dataset from Kaggle. The csv filename is **application_record.csv**
+
+[Dataset]([URL](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction))
