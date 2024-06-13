@@ -46,4 +46,6 @@ easily.
 
 In this Project, We have used dataset from Kaggle. The csv filename is **application_record.csv**
 
-[Dataset]([URL](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction))
+You can find the dataset [here](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction).
+
+
